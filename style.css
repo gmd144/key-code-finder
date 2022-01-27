@@ -1,0 +1,30 @@
+h1, h2{
+    text-align: center;
+    margin: 0;
+}
+h1{
+    font-size: 150px;
+}
+
+h2{
+    font-size: large;
+    font-size: larger;
+    width: 8em;
+    margin: auto;
+    border-radius: 0.25rem;
+    background-color: #eae8e8c4;
+    border: 1px solid #9c9a9a;
+    box-shadow: 0px 0px 4px 2px rgb(0 0 0 / 19%);
+}
+
+.cust{
+    margin: auto;
+    margin-top: 18%;
+    /* display: flexbox; */
+    
+}
+
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
